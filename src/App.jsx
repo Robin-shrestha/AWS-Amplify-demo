@@ -6,7 +6,7 @@ function App() {
     <>
       <div>
         <img src={reactLogo} />
-        HEllooowoowowowowowowow
+        HEllooowoowowowowowowow worldddddddddd
       </div>
     </>
   );
